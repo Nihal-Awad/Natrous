@@ -1,0 +1,22 @@
+{
+  "name": "natrous",
+  "version": "1.0.0",
+  "description": "Landingpage for natrous",
+  "main": "index.js",
+  "scripts": {
+   "compile:sass" : "node-sass sass/main.scss CSS/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nihal-Awad/Natrous.git"
+  },
+  "author": "Nihal Awadh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nihal-Awad/Natrous/issues"
+  },
+  "homepage": "https://github.com/Nihal-Awad/Natrous#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.0"
+  }
+}
